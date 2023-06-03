@@ -1,4 +1,4 @@
 ---
-tags: webdev, frontend
+tags: browser, frontend
 ---
 

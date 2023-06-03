@@ -1,5 +1,5 @@
 ---
-tags: webdev, frontend
+tags: browser, frontend
 ---
 
 # Браузерная предзагрузка
